@@ -3,8 +3,7 @@
 In my practically non-existant spare time, I want to work through this 'Python for Data Analysis' textbook: <p>
 <img src="https://github.com/spesavento/python-is-my-jam/blob/main/images/textbook_cover.png" width="200" height="200">
 #### Table of Contents <p>
-`Chapter 1:` &nbsp;&nbsp;&nbsp; Python Language Basics, IPython, and Jupyter Notebooks <font size="3"> ★ </font>\
-`Chapter 2:` &nbsp;&nbsp;&nbsp; Built-in Data Structures, Functions, and Files\
+`Chapter 2:` &nbsp;&nbsp;&nbsp; Python Language Basics, IPython, and Jupyter Notebooks <font size="3"> ★ </font>\
 `Chapter 3:` &nbsp;&nbsp;&nbsp; Built-in Data Structures, Functions, and Files\
 `Chapter 4:` &nbsp;&nbsp;&nbsp; NumPy Basics: Arrays and Vectorized Computation\
 `Chapter 5:` &nbsp;&nbsp;&nbsp; Getting Started with pandas\
